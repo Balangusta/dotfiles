@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Balangusta
+	email = balangusta@gmail.com
+[core]
+	editor = nvim
